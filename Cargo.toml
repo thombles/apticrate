@@ -1,0 +1,11 @@
+[package]
+name = "apticrate"
+version = "0.1.0"
+edition = "2021"
+authors = ["Thomas Karpiniec <tk@1.21jiggawatts.net>"]
+description = "Work with Rust libraries available in Debian apt"
+readme = "README.md"
+homepage = "https://src.1.21jiggawatts.net/apticrate/"
+repository = "https://src.1.21jiggawatts.net/apticrate/"
+
+[dependencies]
